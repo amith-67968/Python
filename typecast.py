@@ -7,3 +7,10 @@ name="amith"
 friend="abcd"
 anotherfriend="efgh"
 print(name,friend,anotherfriend)
+
+print("He said \"I want to eat an apple\"" )
+string="""casjbsfsjfbsaiknfnfifb
+bfsieiufjsdnmf cdsbdsbvdsj
+vdbivkjdjvsdbvhvndvvsiekse
+sdvhbjvbekvnjvbgvhjbfvbbhj"""
+print(string)
