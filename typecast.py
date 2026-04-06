@@ -14,3 +14,5 @@ bfsieiufjsdnmf cdsbdsbvdsj
 vdbivkjdjvsdbvhvndvvsiekse
 sdvhbjvbekvnjvbgvhjbfvbbhj"""
 print(string)
+
+print(name[3])
