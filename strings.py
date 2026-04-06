@@ -9,3 +9,6 @@ print(fruit[1:3])
 nm="harry"
 print(nm[-4:-1])
 print(nm.upper())
+b="!!!!Amith!!!!!!!!"
+print(b.rstrip("!"))
+print(b.replace("Amith","John"))
