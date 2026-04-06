@@ -12,3 +12,7 @@ print(nm.upper())
 b="!!!!Amith!!!!!!!!"
 print(b.rstrip("!"))
 print(b.replace("Amith","John"))
+
+
+c="amith.... ....bhat.... !!!!!"
+print(c.split(" "))
