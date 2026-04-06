@@ -16,3 +16,6 @@ print(b.replace("Amith","John"))
 
 c="amith.... ....bhat.... !!!!!"
 print(c.split(" "))
+
+str1="Welcome to the console !!!"
+print(str1.endswith("to",4,10))
