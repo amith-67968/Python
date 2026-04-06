@@ -19,3 +19,6 @@ print(c.split(" "))
 
 str1="Welcome to the console !!!"
 print(str1.endswith("to",4,10))
+
+print(str1.capitalize())
+print(str1.title())
