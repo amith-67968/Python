@@ -7,3 +7,7 @@ print(a.replace("amith","john"))
 print(a.split(" "))
 blogHeading="introduction to js"
 print(blogHeading.capitalize())
+str1="welcome"
+print(len(str1))
+print(len(str1.center(60)))
+print(a.count("amith"))
