@@ -14,3 +14,6 @@ c=9
 d=2
 calculate(a,b)
 calculate(c,d)
+
+def calci(a,b):
+    pass
