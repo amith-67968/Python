@@ -1,2 +1,10 @@
-tup=(1,)
-print(type(tup),tup)
+# # tup=(1,)
+# # print(type(tup),tup)
+# converting tuple to list to modify it 
+tup=("india","russia","US","England")
+temp=list(tup)
+temp.append("Finland")
+print(temp)
+temp.pop(2)
+tup=tuple(temp)
+print(tup)
