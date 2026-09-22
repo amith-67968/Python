@@ -25,4 +25,4 @@ if(num==0):
 if(num==999):
     print("Number is special")
 else:
-    print("Number is positive")
+    print("zNumber is positive")
